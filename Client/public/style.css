@@ -1,0 +1,26 @@
+body {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#header-container {
+    display: flex;
+    justify-content: center;
+}
+
+#header {
+    display: flex;
+    justify-content: center;
+    color: rgb(204, 50, 158);
+}
+
+#textbox-container {
+    display: flex;
+    justify-content: center;
+}
+
+#textbox {
+    display: flex;
+    justify-content: center;
+}
